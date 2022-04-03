@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UScj0Av5mCJKL/H5vx0+tVXRja8dqx6sdw7AqN4+hrDI32rTSuB4QYZcCmvsiWTP0aUZNn7fW5Zo63tSGoz/Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\UCU\\SegundoAño\\Prog2_2022\\EjerciciosGrupales\\n\\PII_PosterObjectsClassesMessages\\PosterObjectsClassesMessages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
